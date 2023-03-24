@@ -460,7 +460,7 @@ footer{
         align-items: center;
         flex-flow: column nowrap;
         justify-content: space-around;
-        height: 140vh;
+        height: 116vh;
     }
     #ofertas ul li a{
         line-height: 20px;
